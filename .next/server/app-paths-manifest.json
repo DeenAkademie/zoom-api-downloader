@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/api/zoom/test/route": "app/api/zoom/test/route.js",
+  "/api/zoom/recordings/route": "app/api/zoom/recordings/route.js",
+  "/api/zoom/direct-test/route": "app/api/zoom/direct-test/route.js"
+}
